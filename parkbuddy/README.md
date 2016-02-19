@@ -25,3 +25,7 @@ As of 2/19/16, this project is not intended as a money-making proposition for co
 ## License
 
 MIT. Please note however, this may change and the repo may become private, if contributors come to an agreement.
+
+## Contact
+
+For now, the contact person is [Jet](http://jetbalagtas.com/contact).
